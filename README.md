@@ -4,8 +4,7 @@
 
 ### Disclaimer
 
-Use this at your own risk. Spotify does not want you to use this API as it is intended for the Spotify apps and things like smart home devices. 
-
+Use this at your own risk. Spotify does not want you to use this API - it is meant for Spotify apps and things like smart home devices. 
 
 
 ### Index
@@ -97,7 +96,7 @@ def getArtistInfo(artistID):
 
 
 
-### Example Responses
+### Example Response
 
 ```python
 search("eminem")
